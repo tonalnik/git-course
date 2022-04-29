@@ -7,7 +7,8 @@ workspace {
 
         user -> softwareSystem "Uses"
     }
-
+    
+    views {
         theme default
     }
 
