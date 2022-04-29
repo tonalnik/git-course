@@ -7,7 +7,6 @@ workspace {
 
         user -> softwareSystem "Uses"
     }
-
         theme default
     }
 
